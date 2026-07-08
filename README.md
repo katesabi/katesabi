@@ -1,16 +1,25 @@
-## Hi there 👋
+Hi there! 🍃☁️
 
-<!--
-**katesabi/katesabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Katerina. Nice to meet you! 
+I like building things with care and leaving space for quiet.  
+To me, good code is like a calm garden: everything has its place, and the empty space is just as important as what’s in it. 
 
-Here are some ideas to get you started:
+## Skills
+- C#
+- Python
+- JavaScript
+- HTML
+- CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools & Workflows
+- Figma → code
+- Responsive design
+- Modular components
+
+## My quiet rule
+If I can remove a line and nothing breaks, I remove it.  
+If a name doesn’t tell a story, I rename it.  
+If the layout feels crowded, I give it air. 
+
+Thanks for stopping by and sharing a little space in your day. 🎋✨  
+Hope we can build something meaningful together soon! 🌟
