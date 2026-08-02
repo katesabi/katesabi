@@ -13,7 +13,7 @@ I like building things with care and leaving space for quiet.  To me, good code 
 - Figma → code
 - Responsive design
 - Modular components
-## My quiet rule
+## My quiet rules
 - If I can remove a line and nothing breaks, I remove it.  
 - If a name doesn’t tell a story, I rename it.  
 - If the layout feels crowded, I give it air. 
