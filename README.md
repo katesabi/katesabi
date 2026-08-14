@@ -1,4 +1,4 @@
-<img width="716" height="252" alt="image" src="https://github.com/user-attachments/assets/5950d1d3-b3b9-445b-a961-e84d262175fc" />
+<img width="750" height="250" alt="image" src="https://github.com/user-attachments/assets/0b5be1c2-1e56-478a-8d3d-b2eca9793201" />
 
 ## Hi there! 🍃☁️
 
