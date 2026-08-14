@@ -1,6 +1,6 @@
-<img width="750" height="250" alt="image" src="https://github.com/user-attachments/assets/7565e704-6cec-4ea9-a478-059967000632" />
+<img width="1199" height="400" alt="image" src="https://github.com/user-attachments/assets/c19df30b-c549-4b47-a17e-abceb576f19d" />
 
-## Hi there! 🍃☁️
+ ## Hi there! 🍃☁️
 
 I’m Katerina. Nice to meet you! 
 I like building things with care and leaving space for quiet.  To me, good code is like a calm garden: everything has its place, and the empty space is just as important as what’s in it. 
