@@ -1,3 +1,5 @@
+<img width="735" height="245" alt="image" src="https://github.com/user-attachments/assets/74a30a36-810e-4f5c-bd78-f36bdef15ca2" />
+
 ## Hi there! 🍃☁️
 
 I’m Katerina. Nice to meet you! 
