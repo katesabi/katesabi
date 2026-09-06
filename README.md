@@ -11,6 +11,7 @@ I like building things with care and leaving space for quiet.  To me, good code 
 - JavaScript
 - HTML
 - CSS
+-  Go
 ## Tools & Workflows
 - Figma → code
 - Responsive design
@@ -20,4 +21,4 @@ I like building things with care and leaving space for quiet.  To me, good code 
 - If a name doesn’t tell a story, I rename it.  
 - If the layout feels crowded, I give it air. 
 
-## Thanks for stopping by and sharing a little space in your day. Hope we can build something meaningful together soon! 🦕🌿
+## Thanks for stopping by and sharing a little space in your day. Hope we can build something meaningful together soon! 🦕
