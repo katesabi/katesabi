@@ -11,7 +11,7 @@ I like building things with care and leaving space for quiet.  To me, good code 
 - JavaScript
 - HTML
 - CSS
--  Go
+-  TypeScript
 ## Tools & Workflows
 - Figma → code
 - Responsive design
