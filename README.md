@@ -9,8 +9,7 @@ I like building things with care and leaving space for quiet.  To me, good code 
 - C#
 - Python
 - JavaScript
-- HTML
-- CSS
+- HTML & CSS
 -  TypeScript
 ## Tools & Workflows
 - Figma → code
